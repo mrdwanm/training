@@ -4,6 +4,5 @@ Pada file ini terdapat rencana:
     - Keluarga
     - Perorangan
 2. Tahun 2024 bisa menjalankan usaha
-  b. Mempunyai warehouse
 3. Travelling dengan Umma dan Umar
 4. Testing
