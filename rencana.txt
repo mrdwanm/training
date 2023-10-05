@@ -1,7 +1,8 @@
 Pada file ini terdapat rencana:
 1. Januari 2024 ingin membuka usaha
   a. Usaha yang dijalankan adalah usaha clothing
-    - Baju
-    - Gaun
+    - Keluarga
+    - Perorangan
 2. Tahun 2024 bisa menjalankan usaha
 3. Travelling dengan Umma dan Umar
+4. Testing
