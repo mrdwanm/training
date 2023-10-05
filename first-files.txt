@@ -1,3 +1,2 @@
 File pertama dalam latihan github.
 file pertama ini bertipe text file, dimana file ini dibuat melalui Github
-Teks tambahan pada file 
